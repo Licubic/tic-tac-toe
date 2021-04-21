@@ -10,3 +10,5 @@ Python: https://www.python.org/downloads/
 
 
 ## How To Play
+
+http://youtube.com/watch?v=6YiXj8FCK_g
