@@ -1,5 +1,6 @@
 # copyright i thimk
 print("© LICUBIC LTD.\n")
+print("All rights reserved.\n")
 
 # Function to print Tic Tac Toe
 def print_tic_tac_toe(values):
